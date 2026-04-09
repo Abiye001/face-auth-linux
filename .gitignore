@@ -1,0 +1,21 @@
+# Build files
+build/
+*.o
+*.so
+*.a
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (don't commit user face data!)
+data/users/*.dat
+
+# Models (too large for git)
+models/*.dat
+
+# Temporary files
+*~
+*.log
