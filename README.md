@@ -191,9 +191,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@YourGitHub]
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/joseph-abiye-samuel-787262389
+- GitHub:https://github.com/Abiye001
+- Email: samuelabiye00@gmail.com
 
 ## 🔮 Future Improvements
 
